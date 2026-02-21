@@ -1,4 +1,7 @@
 # king-baboon-spider-bot
+
+<img width="636" height="624" alt="king" src="https://github.com/user-attachments/assets/b44a93d5-7846-45c3-9d45-26f298996950" />
+
 King Baboon Spider Bot is an advanced AI-powered cybersecurity training and defensive operations platform developed by Accurate Cyber Defense.
 Inspired by the strength, resilience, and precision of the African king baboon spider, the platform is designed to empower cybersecurity students, engineers, instructors, and security professionals with a powerful yet controlled environment for ethical security testing and structured cyber defense simulations.
 
